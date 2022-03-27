@@ -1,7 +1,8 @@
 # MMAI894
 # Deep Learning
+![beauty4](https://user-images.githubusercontent.com/67903463/160304953-87bccf5b-b285-4114-b206-31b2ec113e05.png)
 
-![Beauty1](https://user-images.githubusercontent.com/67903463/160304263-d4718d04-e3c3-4d88-804f-58616e337d98.png)
+
 
 
 •Data Exploration
@@ -24,7 +25,7 @@
 Productivity: 
 
 Though emails can be a valuable source of information and have remained the primary method of communication in the workplace, they can also have a significant negative impact on worker productivity. In fact, reading preview text alone costs workers 87 hours a year.6 That is almost eleven working days (based on an 8-hour day) spent without anything to show for, not even having replied to the emails themselves. With classification, workers are directed to focus their attention on the areas that matter most and are less likely to feel overwhelmed by a full inbox. 
-
+![Beauty1](https://user-images.githubusercontent.com/67903463/160304263-d4718d04-e3c3-4d88-804f-58616e337d98.png)
 
 By running clusters using k-means we were able to uncover the themes in the vector representations and identified 6 departments. We augmented the list of keywords in each department by using cosine distance. After applying feature engineering, label encoding and tokenization, the data was ready to be modeled. We began by running 3 LSTM models using the same parameters side by side and compared them. The data fed into each of the models respectively was: 
 
